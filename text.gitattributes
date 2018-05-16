@@ -10,8 +10,8 @@ print("마지막 문자 :", a[-1])
 
 2번
 
-x=-1a
-=input("문자열 : ")
+x=-1
+a=input("문자열 : ")
 for i in range(len(a)):
 x+=1    
 print(a[x],end="")
